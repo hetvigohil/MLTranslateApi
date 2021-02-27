@@ -46,6 +46,7 @@ class TranslateActivity : AppCompatActivity() {
                         }
                     }
                     ?.addOnFailureListener {
+
                     }
             }
 
